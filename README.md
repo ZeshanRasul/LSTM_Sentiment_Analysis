@@ -7,10 +7,10 @@ This project demonstrates a deep learning approach to **Twitter sentiment analys
 ## Project Overview
 
 - **Objective:** Train an LSTM model to analyse sentiments in tweets.
-- **Dataset:** This project uses a Kaggle dataset which can be found [here](https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
+- **Dataset:** This project uses a Kaggle dataset which can be found [here](https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech).
 - **Model:** Deep learning sentiment classifier using **LSTM**.
 - **Analysis:** Include data preprocessing, model training, evaluation metrics and insights.
-- **Tools:** Python, Tensorflow/Keras, NumPy, Pandas, Matplotlib, NLTK
+- **Tools:** Python, Tensorflow/Keras, NumPy, Pandas, Matplotlib, NLTK.
 
 ## Key Features
 
